@@ -55,7 +55,7 @@
         "question_15": "¿Dónde has encontrado el mosquito?",
         "question_16": "¿Dónde se encuentra el lugar de cría?",
         "question_4_answer_43": "En el exterior",
-        "question_4_answer_44": "No lo sé",
+        "question_4_answer_44": "No lo sé"
     },
     "en": {
         "question_1": "How many bites do you have and where are they on your body?",
@@ -113,7 +113,7 @@
         "question_15": "Where did you find the mosquito?",
         "question_16": "Where is the breeding site?",
         "question_4_answer_43": "Outdoors",
-        "question_4_answer_44": "I don't know",
+        "question_4_answer_44": "I don't know"
     },
     "ca": {
         "question_1": "Quantes picades tens i en quina part del cos?",
@@ -171,7 +171,7 @@
         "question_15": "On has trobat el mosquit?",
         "question_16": "On es troba el lloc de cria?",
         "question_4_answer_43": "A l'exterior",
-        "question_4_answer_44": "No ho sé",
+        "question_4_answer_44": "No ho sé"
     },
     "it": {
         "question_1": "Quante punture hai ricevuto e in che parte del corpo?",
@@ -229,7 +229,7 @@
         "question_15": "Dove hai trovato la zanzara?",
         "question_16": "Dov'è il sito di riproduzione?",
         "question_4_answer_43": "All'aperto",
-        "question_4_answer_44": "Non so",
+        "question_4_answer_44": "Non so"
     },
     "el": {
         "question_1": "Αριθμός τσιμπημάτων και σε ποια σημεία του σώματος σας;",
@@ -287,7 +287,7 @@
         "question_15": "Πού εντοπίσατε το κουνούπι;",
         "question_16": "Πού εντοπίσατε την εστία ανάπτυξης/αναπαραγωγής του;",
         "question_4_answer_43": "Σε εξωτερικό χώρο",
-        "question_4_answer_44": "Δεν το γνωρίζω",
+        "question_4_answer_44": "Δεν το γνωρίζω"
     },
     "tr": {
         "question_1": "Kaç tane ısırığınız var ve bunlar vücudunuzun neresinde?",
@@ -345,7 +345,7 @@
         "question_15": "Sivrisineği nerede buldunuz?",
         "question_16": "Üreme alanı nerede?",
         "question_4_answer_43": "Açık havada",
-        "question_4_answer_44": "Bilmiyorum",
+        "question_4_answer_44": "Bilmiyorum"
     },
     "hr": {
         "question_1": "Koliko uboda imate i gdje se nalaze na vašem tijelu?",
@@ -403,7 +403,7 @@
         "question_15": "Gdje ste pronašli komarca?",
         "question_16": "Gdje se nalazi leglo komaraca?",
         "question_4_answer_43": "Na otvorenom",
-        "question_4_answer_44": "Ne znam",
+        "question_4_answer_44": "Ne znam"
     },
     "de": {
         "question_1": "Wie oft wurdest du gestochen und an welchem Körperteil?",
@@ -461,7 +461,7 @@
         "question_15": "Wo hast du die Stechmücke gefunden?",
         "question_16": "Wo ist die Brutstätte?",
         "question_4_answer_43": "Im Freien",
-        "question_4_answer_44": "Ich weiß nicht",
+        "question_4_answer_44": "Ich weiß nicht"
     },
     "sl": {
         "question_1": "Koliko vbodov imate in kje so na telesu telesu?",
@@ -519,7 +519,7 @@
         "question_15": "Kje ste našli komarja?",
         "question_16": "Kje je mesto razvoja ličink?",
         "question_4_answer_43": "Na prostem",
-        "question_4_answer_44": "Ne vem",
+        "question_4_answer_44": "Ne vem"
     },
     "hu": {
         "question_1": "Mennyi csípésed van és a tested melyik részén?",
@@ -577,7 +577,7 @@
         "question_15": "Hol találtad a szúnyogot?",
         "question_16": "Hol található a tenyészőhely?",
         "question_4_answer_43": "Szabadtér",
-        "question_4_answer_44": "Nem tudom",
+        "question_4_answer_44": "Nem tudom"
     },
     "mk": {
         "question_1": "Колку убоди имате и каде се наоѓаат на Вашето тело?",
@@ -635,7 +635,7 @@
         "question_15": "Каде го најдовте комарецот?",
         "question_16": "Каде е местото за размножување?",
         "question_4_answer_43": "Надвор",
-        "question_4_answer_44": "Не знам",
+        "question_4_answer_44": "Не знам"
     },
     "sq": {
         "question_1": "Sa herë jeni pickuar dhe në cilën pjesë të trupit?",
@@ -693,7 +693,7 @@
         "question_15": "Ku e gjetët mushkonjën?",
         "question_16": "Ku është vendrritja e mushkonjave?",
         "question_4_answer_43": "Mjedis i jashtëm",
-        "question_4_answer_44": "Nuk e di",
+        "question_4_answer_44": "Nuk e di"
     },
     "sr": {
         "question_1": "Koliko uboda imate i na kom delu Vašeg tela se nalaze?",
@@ -751,7 +751,7 @@
         "question_15": "Gde ste pronašli komarca?",
         "question_16": "Gde se nalazi razvojno stanište?",
         "question_4_answer_43": "Napolju",
-        "question_4_answer_44": "Ne znam",
+        "question_4_answer_44": "Ne znam"
     },
     "fr": {
         "question_1": "Combien de piqûres avez-vous et où se trouvent-elles sur votre corps ?",
@@ -809,7 +809,7 @@
         "question_15": "Où avez-vous trouvé le moustique ?",
         "question_16": "Où se trouve le site de reproduction ?",
         "question_4_answer_43": "À l'air libre",
-        "question_4_answer_44": "Je ne sais pas",
+        "question_4_answer_44": "Je ne sais pas"
     },
     "lb": {
         "question_1": "Wéivill Picküren hutt Dir a wou sinn déi un ärem Kierper?",
@@ -867,7 +867,7 @@
         "question_15": "Wou hutt Dir d'Mustik fonnt?",
         "question_16": "Wou ass d'Bruttplaz?",
         "question_4_answer_43": "Dobaussen",
-        "question_4_answer_44": "Ech weess net",
+        "question_4_answer_44": "Ech weess net"
     },
     "ro": {
         "question_1": "Câte înțepături aveți și unde sunt localizate pe corp?",
@@ -925,7 +925,7 @@
         "question_15": "Unde ați găsit țânțarul?",
         "question_16": "Unde este locul de reproducere?",
         "question_4_answer_43": "Afară",
-        "question_4_answer_44": "Nu știu",
+        "question_4_answer_44": "Nu știu"
     },
     "nl": {
         "question_1": "Hoeveel muggenbeten heeft u en waar bevinden ze zich op uw lichaam?",
@@ -983,7 +983,7 @@
         "question_15": "Waar heeft u de mug aangetroffen?",
         "question_16": "Waar is de broedplaats",
         "question_4_answer_43": "Buiten",
-        "question_4_answer_44": "Ik weet het niet",
+        "question_4_answer_44": "Ik weet het niet"
     },
     "bg": {
         "question_1": "Колко ухапвания имате и по коя част на тялото?",
@@ -1041,7 +1041,7 @@
         "question_15": "Къде открихте комара?",
         "question_16": "Къде е развъдното място?",
         "question_4_answer_43": "На открито",
-        "question_4_answer_44": "Не знам",
+        "question_4_answer_44": "Не знам"
     },
     "pt": {
         "question_1": "Quantas picadas tens e em que parte do corpo?",
@@ -1099,6 +1099,6 @@
         "question_15": "Onde encontrou o mosquito?",
         "question_16": "Onde se encontra o criadouro?",
         "question_4_answer_43": "No exterior",
-        "question_4_answer_44": "Não sei",
+        "question_4_answer_44": "Não sei"
     }
 }
